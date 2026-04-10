@@ -1,7 +1,9 @@
 <div align="center">
+
 # Osintx_
 
 **The all-in-one OSINT Intelligence Platform**
+
 [![Website](https://img.shields.io/badge/Website-osintx.io-blue?style=for-the-badge&logo=globe)](https://osintx.io)
 [![Telegram](https://img.shields.io/badge/Telegram-@osintxio-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/osintxio)
 
